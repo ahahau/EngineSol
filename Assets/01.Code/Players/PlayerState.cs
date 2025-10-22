@@ -12,6 +12,8 @@ namespace _01.Code.Players
         {
             _player = entity as Player;
             Debug.Assert(_player != null, $"Player state using only in player");
+            int a = 1;
+            float b = 1;
         }
 
         public override void Update()
