@@ -35,10 +35,10 @@ namespace _01.Code.Players.Combat
             _time += Time.deltaTime;
             if (CurrentGun != null)
             {
-                RotateToMouse();
+                LookatMouse();
             }
         }
-        private void RotateToMouse()
+        private void LookatMouse()
         {
             Vector3 mousePos = Camera.main.ScreenToWorldPoint(Input.mousePosition);
             mousePos.z = 0;

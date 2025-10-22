@@ -7,7 +7,7 @@ namespace _01.Code.Players.Combat
     {
         [SerializeField] protected Bullet bulletPrefab;
         [SerializeField] protected Transform firePoint;
-        [SerializeField] protected EntityAnimator _animator;
+        [SerializeField] protected EntityAnimator animator;
         public virtual void Shoot(int damage, float speed, float bulletLifeTime)
         {
             Bullet bullet = Instantiate(bulletPrefab, firePoint.position, firePoint.rotation);
