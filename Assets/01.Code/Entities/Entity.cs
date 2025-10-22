@@ -44,9 +44,13 @@ namespace _01.Code.Entities
         public void RotateToTarget(Vector2 targetPosition)
         {
             if (targetPosition.x < transform.position.x)
+            {
                 transform.rotation = Quaternion.Euler(0, 180, 0);
+            }   
             else
+            {
                 transform.rotation = Quaternion.Euler(0, 0, 0);
+            }
         }
     }
 }
