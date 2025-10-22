@@ -1,0 +1,689 @@
+fileFormatVersion: 2
+guid: 492bd26116d1b284990f27953a1e4851
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4603060194951328282
+    second: AK-Reload_0
+  - first:
+      213: -3105721827829107145
+    second: AK-Reload_1
+  - first:
+      213: -6003296014503021919
+    second: AK-Reload_2
+  - first:
+      213: 2901371160631454702
+    second: AK-Reload_3
+  - first:
+      213: 7622755238244898358
+    second: AK-Reload_4
+  - first:
+      213: 4888407196842594483
+    second: AK-Reload_5
+  - first:
+      213: 8341724940197346666
+    second: AK-Reload_6
+  - first:
+      213: -7880471971981493322
+    second: AK-Reload_7
+  - first:
+      213: 1198757122923808392
+    second: AK-Reload_8
+  - first:
+      213: 4646324882151734861
+    second: AK-Reload_9
+  - first:
+      213: 4790306310741738408
+    second: AK-Reload_10
+  - first:
+      213: 3329999595864822935
+    second: AK-Reload_11
+  - first:
+      213: 3210018139955570892
+    second: AK-Reload_12
+  - first:
+      213: 8081515578616386624
+    second: AK-Reload_13
+  - first:
+      213: -4954917271226538266
+    second: AK-Reload_14
+  - first:
+      213: -3020250479479917466
+    second: AK-Reload_15
+  - first:
+      213: -1883172190261470990
+    second: AK-Reload_16
+  - first:
+      213: -2559036264037551280
+    second: AK-Reload_17
+  - first:
+      213: -4304535315422232125
+    second: AK-Reload_18
+  - first:
+      213: 2480016123722042825
+    second: AK-Reload_19
+  - first:
+      213: 1835401231738559863
+    second: AK-Reload_20
+  - first:
+      213: 1059804667954360389
+    second: AK-Reload_21
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: AK-Reload_0
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 4
+        width: 47
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1270d7fbda51ef30800000000000000
+      internalID: 4603060194951328282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AK-Reload_1
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 4
+        width: 47
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 736b111d37246e4d0800000000000000
+      internalID: -3105721827829107145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AK-Reload_2
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 4
+        width: 46
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a27706e41200bca0800000000000000
+      internalID: -6003296014503021919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AK-Reload_3
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 0
+        width: 46
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eeb200fc2bdb34820800000000000000
+      internalID: 2901371160631454702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AK-Reload_4
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 5
+        width: 46
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 636d559808779c960800000000000000
+      internalID: 7622755238244898358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AK-Reload_5
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 0
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b01445127c17d340800000000000000
+      internalID: 4888407196842594483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AK-Reload_6
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 5
+        width: 46
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6dba7203a2c3c370800000000000000
+      internalID: 8341724940197346666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AK-Reload_7
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 5
+        width: 46
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6bbfe977e70f2a290800000000000000
+      internalID: -7880471971981493322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AK-Reload_8
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 0
+        width: 14
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 886c7d38047d2a010800000000000000
+      internalID: 1198757122923808392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AK-Reload_9
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 6
+        width: 47
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4e76bfecdf0b7040800000000000000
+      internalID: 4646324882151734861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AK-Reload_10
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 0
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a3c211a5369a7240800000000000000
+      internalID: 4790306310741738408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AK-Reload_11
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 1
+        width: 47
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79497b54df8863e20800000000000000
+      internalID: 3329999595864822935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AK-Reload_12
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 3
+        width: 47
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc8ac9aad764c8c20800000000000000
+      internalID: 3210018139955570892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AK-Reload_13
+      rect:
+        serializedVersion: 2
+        x: 522
+        y: 5
+        width: 47
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 044173ed99f472070800000000000000
+      internalID: 8081515578616386624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AK-Reload_14
+      rect:
+        serializedVersion: 2
+        x: 574
+        y: 5
+        width: 46
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e6281d7ef89c3bb0800000000000000
+      internalID: -4954917271226538266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AK-Reload_15
+      rect:
+        serializedVersion: 2
+        x: 626
+        y: 4
+        width: 46
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66475edd03ae516d0800000000000000
+      internalID: -3020250479479917466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AK-Reload_16
+      rect:
+        serializedVersion: 2
+        x: 678
+        y: 4
+        width: 46
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f81294ded0add5e0800000000000000
+      internalID: -1883172190261470990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AK-Reload_17
+      rect:
+        serializedVersion: 2
+        x: 728
+        y: 5
+        width: 46
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 053f2b2831a7c7cd0800000000000000
+      internalID: -2559036264037551280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AK-Reload_18
+      rect:
+        serializedVersion: 2
+        x: 782
+        y: 5
+        width: 46
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c14221efe73344c0800000000000000
+      internalID: -4304535315422232125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AK-Reload_19
+      rect:
+        serializedVersion: 2
+        x: 834
+        y: 5
+        width: 46
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9cd81bb5689ca6220800000000000000
+      internalID: 2480016123722042825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AK-Reload_20
+      rect:
+        serializedVersion: 2
+        x: 886
+        y: 5
+        width: 46
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77d571622b7a87910800000000000000
+      internalID: 1835401231738559863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AK-Reload_21
+      rect:
+        serializedVersion: 2
+        x: 938
+        y: 4
+        width: 47
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54078bcfabe25be00800000000000000
+      internalID: 1059804667954360389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      AK-Reload_0: 4603060194951328282
+      AK-Reload_1: -3105721827829107145
+      AK-Reload_10: 4790306310741738408
+      AK-Reload_11: 3329999595864822935
+      AK-Reload_12: 3210018139955570892
+      AK-Reload_13: 8081515578616386624
+      AK-Reload_14: -4954917271226538266
+      AK-Reload_15: -3020250479479917466
+      AK-Reload_16: -1883172190261470990
+      AK-Reload_17: -2559036264037551280
+      AK-Reload_18: -4304535315422232125
+      AK-Reload_19: 2480016123722042825
+      AK-Reload_2: -6003296014503021919
+      AK-Reload_20: 1835401231738559863
+      AK-Reload_21: 1059804667954360389
+      AK-Reload_3: 2901371160631454702
+      AK-Reload_4: 7622755238244898358
+      AK-Reload_5: 4888407196842594483
+      AK-Reload_6: 8341724940197346666
+      AK-Reload_7: -7880471971981493322
+      AK-Reload_8: 1198757122923808392
+      AK-Reload_9: 4646324882151734861
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,1079 @@
+fileFormatVersion: 2
+guid: 5c814d968bb616e4688091e4e76b2057
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1014027374241271991
+    second: Shotgun-Reload_0
+  - first:
+      213: -4175148863971013345
+    second: Shotgun-Reload_1
+  - first:
+      213: -1187807518772516288
+    second: Shotgun-Reload_2
+  - first:
+      213: 6635648517342617272
+    second: Shotgun-Reload_3
+  - first:
+      213: 936149861829102470
+    second: Shotgun-Reload_4
+  - first:
+      213: 4717616799661395688
+    second: Shotgun-Reload_5
+  - first:
+      213: -6241888375357516199
+    second: Shotgun-Reload_6
+  - first:
+      213: 3816258383486637812
+    second: Shotgun-Reload_7
+  - first:
+      213: -3123483576708724012
+    second: Shotgun-Reload_8
+  - first:
+      213: -6133998069938181744
+    second: Shotgun-Reload_9
+  - first:
+      213: 5077901048544321004
+    second: Shotgun-Reload_10
+  - first:
+      213: 3369707088765238928
+    second: Shotgun-Reload_11
+  - first:
+      213: -2849155217709468418
+    second: Shotgun-Reload_12
+  - first:
+      213: 5564757479806268669
+    second: Shotgun-Reload_13
+  - first:
+      213: 8197132216345798287
+    second: Shotgun-Reload_14
+  - first:
+      213: 2564583792866111556
+    second: Shotgun-Reload_15
+  - first:
+      213: -2717566887442589188
+    second: Shotgun-Reload_16
+  - first:
+      213: -3781756844390895355
+    second: Shotgun-Reload_17
+  - first:
+      213: -2468036384419297980
+    second: Shotgun-Reload_18
+  - first:
+      213: -7398095372739812921
+    second: Shotgun-Reload_19
+  - first:
+      213: -5575087305232992878
+    second: Shotgun-Reload_20
+  - first:
+      213: -5178280285034772517
+    second: Shotgun-Reload_21
+  - first:
+      213: 7020644939685251034
+    second: Shotgun-Reload_22
+  - first:
+      213: -7633297718056463050
+    second: Shotgun-Reload_23
+  - first:
+      213: 7278946687666517546
+    second: Shotgun-Reload_24
+  - first:
+      213: -2108713780858840795
+    second: Shotgun-Reload_25
+  - first:
+      213: -5788801602300767854
+    second: Shotgun-Reload_26
+  - first:
+      213: -172134533515148202
+    second: Shotgun-Reload_27
+  - first:
+      213: 2012503098588623707
+    second: Shotgun-Reload_28
+  - first:
+      213: -5208417696587785328
+    second: Shotgun-Reload_29
+  - first:
+      213: 4313786168781673906
+    second: Shotgun-Reload_30
+  - first:
+      213: 2601364749378325212
+    second: Shotgun-Reload_31
+  - first:
+      213: 2090819361929030343
+    second: Shotgun-Reload_32
+  - first:
+      213: 2220383340764332828
+    second: Shotgun-Reload_33
+  - first:
+      213: -5423551213249376847
+    second: Shotgun-Reload_34
+  - first:
+      213: 1734889439063404457
+    second: Shotgun-Reload_35
+  - first:
+      213: 6210660189658877135
+    second: Shotgun-Reload_36
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Shotgun-Reload_0
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 5
+        width: 44
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94fa3d5c9737de1f0800000000000000
+      internalID: -1014027374241271991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shotgun-Reload_1
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 5
+        width: 44
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1dc1a6aa34ee06c0800000000000000
+      internalID: -4175148863971013345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shotgun-Reload_2
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 5
+        width: 44
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04aa60eda5f048fe0800000000000000
+      internalID: -1187807518772516288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shotgun-Reload_3
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 5
+        width: 44
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8bedd8a5b2f861c50800000000000000
+      internalID: 6635648517342617272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shotgun-Reload_4
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 5
+        width: 44
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68bcad2e65fddfc00800000000000000
+      internalID: 936149861829102470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shotgun-Reload_5
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 5
+        width: 44
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ee8b3afb77587140800000000000000
+      internalID: 4717616799661395688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shotgun-Reload_6
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 4
+        width: 44
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 956dc23f79b5069a0800000000000000
+      internalID: -6241888375357516199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shotgun-Reload_7
+      rect:
+        serializedVersion: 2
+        x: 367
+        y: 4
+        width: 44
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f6d3d6c7c216f430800000000000000
+      internalID: 3816258383486637812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shotgun-Reload_8
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 5
+        width: 44
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4da82846c3827a4d0800000000000000
+      internalID: -3123483576708724012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shotgun-Reload_9
+      rect:
+        serializedVersion: 2
+        x: 471
+        y: 4
+        width: 44
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09927643149afdaa0800000000000000
+      internalID: -6133998069938181744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shotgun-Reload_10
+      rect:
+        serializedVersion: 2
+        x: 523
+        y: 4
+        width: 44
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ced511b8914587640800000000000000
+      internalID: 5077901048544321004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shotgun-Reload_11
+      rect:
+        serializedVersion: 2
+        x: 575
+        y: 4
+        width: 44
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09eb7f66eba93ce20800000000000000
+      internalID: 3369707088765238928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shotgun-Reload_12
+      rect:
+        serializedVersion: 2
+        x: 627
+        y: 4
+        width: 44
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef4f97acc64c578d0800000000000000
+      internalID: -2849155217709468418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shotgun-Reload_13
+      rect:
+        serializedVersion: 2
+        x: 679
+        y: 4
+        width: 44
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df4fc0dc17df93d40800000000000000
+      internalID: 5564757479806268669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shotgun-Reload_14
+      rect:
+        serializedVersion: 2
+        x: 731
+        y: 5
+        width: 44
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f86a33c025012c170800000000000000
+      internalID: 8197132216345798287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shotgun-Reload_15
+      rect:
+        serializedVersion: 2
+        x: 783
+        y: 4
+        width: 44
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44032823f5b379320800000000000000
+      internalID: 2564583792866111556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shotgun-Reload_16
+      rect:
+        serializedVersion: 2
+        x: 835
+        y: 4
+        width: 44
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf9de9c6053494ad0800000000000000
+      internalID: -2717566887442589188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shotgun-Reload_17
+      rect:
+        serializedVersion: 2
+        x: 887
+        y: 4
+        width: 44
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 501bd27cf20848bc0800000000000000
+      internalID: -3781756844390895355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shotgun-Reload_18
+      rect:
+        serializedVersion: 2
+        x: 939
+        y: 4
+        width: 44
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 445c2fd0cf5cfbdd0800000000000000
+      internalID: -2468036384419297980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shotgun-Reload_19
+      rect:
+        serializedVersion: 2
+        x: 991
+        y: 4
+        width: 44
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c1e16d847fa45990800000000000000
+      internalID: -7398095372739812921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shotgun-Reload_20
+      rect:
+        serializedVersion: 2
+        x: 1043
+        y: 5
+        width: 44
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2953ccb42af41a2b0800000000000000
+      internalID: -5575087305232992878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shotgun-Reload_21
+      rect:
+        serializedVersion: 2
+        x: 1095
+        y: 4
+        width: 44
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd70817348d0328b0800000000000000
+      internalID: -5178280285034772517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shotgun-Reload_22
+      rect:
+        serializedVersion: 2
+        x: 1147
+        y: 4
+        width: 44
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad7451c20675e6160800000000000000
+      internalID: 7020644939685251034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shotgun-Reload_23
+      rect:
+        serializedVersion: 2
+        x: 1199
+        y: 4
+        width: 44
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 635d17a1b24111690800000000000000
+      internalID: -7633297718056463050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shotgun-Reload_24
+      rect:
+        serializedVersion: 2
+        x: 1251
+        y: 4
+        width: 44
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a267e596273040560800000000000000
+      internalID: 7278946687666517546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shotgun-Reload_25
+      rect:
+        serializedVersion: 2
+        x: 1303
+        y: 4
+        width: 44
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52910fe1df75cb2e0800000000000000
+      internalID: -2108713780858840795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shotgun-Reload_26
+      rect:
+        serializedVersion: 2
+        x: 1355
+        y: 5
+        width: 44
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29196a3fc9b0aafa0800000000000000
+      internalID: -5788801602300767854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shotgun-Reload_27
+      rect:
+        serializedVersion: 2
+        x: 1407
+        y: 4
+        width: 44
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6548044cd847c9df0800000000000000
+      internalID: -172134533515148202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shotgun-Reload_28
+      rect:
+        serializedVersion: 2
+        x: 1459
+        y: 4
+        width: 44
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b537fbcc7e8ddeb10800000000000000
+      internalID: 2012503098588623707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shotgun-Reload_29
+      rect:
+        serializedVersion: 2
+        x: 1511
+        y: 4
+        width: 44
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09bd60943bbf7b7b0800000000000000
+      internalID: -5208417696587785328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shotgun-Reload_30
+      rect:
+        serializedVersion: 2
+        x: 1563
+        y: 4
+        width: 44
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b599334aa5addb30800000000000000
+      internalID: 4313786168781673906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shotgun-Reload_31
+      rect:
+        serializedVersion: 2
+        x: 1615
+        y: 4
+        width: 44
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cda0be9f477e91420800000000000000
+      internalID: 2601364749378325212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shotgun-Reload_32
+      rect:
+        serializedVersion: 2
+        x: 1667
+        y: 5
+        width: 44
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7cae94dc125140d10800000000000000
+      internalID: 2090819361929030343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shotgun-Reload_33
+      rect:
+        serializedVersion: 2
+        x: 1719
+        y: 5
+        width: 44
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c13047362e260de10800000000000000
+      internalID: 2220383340764332828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shotgun-Reload_34
+      rect:
+        serializedVersion: 2
+        x: 1771
+        y: 5
+        width: 44
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1bdc12128ecabb4b0800000000000000
+      internalID: -5423551213249376847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shotgun-Reload_35
+      rect:
+        serializedVersion: 2
+        x: 1823
+        y: 5
+        width: 44
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9af63f3c0c0931810800000000000000
+      internalID: 1734889439063404457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shotgun-Reload_36
+      rect:
+        serializedVersion: 2
+        x: 1875
+        y: 5
+        width: 44
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fcc07497982b03650800000000000000
+      internalID: 6210660189658877135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Shotgun-Reload_0: -1014027374241271991
+      Shotgun-Reload_1: -4175148863971013345
+      Shotgun-Reload_10: 5077901048544321004
+      Shotgun-Reload_11: 3369707088765238928
+      Shotgun-Reload_12: -2849155217709468418
+      Shotgun-Reload_13: 5564757479806268669
+      Shotgun-Reload_14: 8197132216345798287
+      Shotgun-Reload_15: 2564583792866111556
+      Shotgun-Reload_16: -2717566887442589188
+      Shotgun-Reload_17: -3781756844390895355
+      Shotgun-Reload_18: -2468036384419297980
+      Shotgun-Reload_19: -7398095372739812921
+      Shotgun-Reload_2: -1187807518772516288
+      Shotgun-Reload_20: -5575087305232992878
+      Shotgun-Reload_21: -5178280285034772517
+      Shotgun-Reload_22: 7020644939685251034
+      Shotgun-Reload_23: -7633297718056463050
+      Shotgun-Reload_24: 7278946687666517546
+      Shotgun-Reload_25: -2108713780858840795
+      Shotgun-Reload_26: -5788801602300767854
+      Shotgun-Reload_27: -172134533515148202
+      Shotgun-Reload_28: 2012503098588623707
+      Shotgun-Reload_29: -5208417696587785328
+      Shotgun-Reload_3: 6635648517342617272
+      Shotgun-Reload_30: 4313786168781673906
+      Shotgun-Reload_31: 2601364749378325212
+      Shotgun-Reload_32: 2090819361929030343
+      Shotgun-Reload_33: 2220383340764332828
+      Shotgun-Reload_34: -5423551213249376847
+      Shotgun-Reload_35: 1734889439063404457
+      Shotgun-Reload_36: 6210660189658877135
+      Shotgun-Reload_4: 936149861829102470
+      Shotgun-Reload_5: 4717616799661395688
+      Shotgun-Reload_6: -6241888375357516199
+      Shotgun-Reload_7: 3816258383486637812
+      Shotgun-Reload_8: -3123483576708724012
+      Shotgun-Reload_9: -6133998069938181744
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

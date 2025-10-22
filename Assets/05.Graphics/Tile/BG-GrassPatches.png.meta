@@ -1,0 +1,1911 @@
+fileFormatVersion: 2
+guid: eaee82a494a5ebd4290ac7b9c1e4f673
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7064299798941962853
+    second: BG-GrassPatches_0
+  - first:
+      213: 857893975180144259
+    second: BG-GrassPatches_1
+  - first:
+      213: 2347224976844334398
+    second: BG-GrassPatches_2
+  - first:
+      213: -7706706625692094648
+    second: BG-GrassPatches_3
+  - first:
+      213: 764739759572316637
+    second: BG-GrassPatches_4
+  - first:
+      213: -369860139669894820
+    second: BG-GrassPatches_5
+  - first:
+      213: -8879462519833198027
+    second: BG-GrassPatches_6
+  - first:
+      213: -423309719085245848
+    second: BG-GrassPatches_7
+  - first:
+      213: 6209958557059759761
+    second: BG-GrassPatches_8
+  - first:
+      213: 7532989538487754475
+    second: BG-GrassPatches_9
+  - first:
+      213: -613006800650564733
+    second: BG-GrassPatches_10
+  - first:
+      213: -2949094437832050800
+    second: BG-GrassPatches_11
+  - first:
+      213: -6509753392896678753
+    second: BG-GrassPatches_12
+  - first:
+      213: 3384986346172661218
+    second: BG-GrassPatches_13
+  - first:
+      213: -1989847934073919847
+    second: BG-GrassPatches_14
+  - first:
+      213: 2039150147271098469
+    second: BG-GrassPatches_15
+  - first:
+      213: 956912792689327574
+    second: BG-GrassPatches_16
+  - first:
+      213: 9211361388993663243
+    second: BG-GrassPatches_17
+  - first:
+      213: -56904842689576090
+    second: BG-GrassPatches_18
+  - first:
+      213: -4257714766088006814
+    second: BG-GrassPatches_19
+  - first:
+      213: -7828182341493105514
+    second: BG-GrassPatches_20
+  - first:
+      213: -6774072338914314125
+    second: BG-GrassPatches_21
+  - first:
+      213: -2076386264176989464
+    second: BG-GrassPatches_22
+  - first:
+      213: 4844012971261457271
+    second: BG-GrassPatches_23
+  - first:
+      213: -170991593090364850
+    second: BG-GrassPatches_24
+  - first:
+      213: -1734072211586516023
+    second: BG-GrassPatches_25
+  - first:
+      213: -8608908693097780364
+    second: BG-GrassPatches_26
+  - first:
+      213: 2224127972998251924
+    second: BG-GrassPatches_27
+  - first:
+      213: 5963224863951729565
+    second: BG-GrassPatches_28
+  - first:
+      213: -4730566754551935550
+    second: BG-GrassPatches_29
+  - first:
+      213: 2998983632308716239
+    second: BG-GrassPatches_30
+  - first:
+      213: 4772466880051376630
+    second: BG-GrassPatches_31
+  - first:
+      213: 6248583392746803198
+    second: BG-GrassPatches_32
+  - first:
+      213: 3381090172334628711
+    second: BG-GrassPatches_33
+  - first:
+      213: -2490462872875777717
+    second: BG-GrassPatches_34
+  - first:
+      213: -6026081541012830235
+    second: BG-GrassPatches_35
+  - first:
+      213: 8526486277778879614
+    second: BG-GrassPatches_36
+  - first:
+      213: -4278967378878424771
+    second: BG-GrassPatches_37
+  - first:
+      213: -5795125466008534268
+    second: BG-GrassPatches_38
+  - first:
+      213: -5960370686242522714
+    second: BG-GrassPatches_39
+  - first:
+      213: -4005229580544322512
+    second: BG-GrassPatches_40
+  - first:
+      213: -6920803438135253982
+    second: BG-GrassPatches_41
+  - first:
+      213: 5324291495581164235
+    second: BG-GrassPatches_42
+  - first:
+      213: -1117593499948366798
+    second: BG-GrassPatches_43
+  - first:
+      213: 7148859370355051464
+    second: BG-GrassPatches_44
+  - first:
+      213: 8219388380926584876
+    second: BG-GrassPatches_45
+  - first:
+      213: 4432901774355974066
+    second: BG-GrassPatches_46
+  - first:
+      213: -6325351762180555234
+    second: BG-GrassPatches_47
+  - first:
+      213: -5172613978841466741
+    second: BG-GrassPatches_48
+  - first:
+      213: -7483083930111861731
+    second: BG-GrassPatches_49
+  - first:
+      213: 2303665640969902408
+    second: BG-GrassPatches_50
+  - first:
+      213: -6051264461064290311
+    second: BG-GrassPatches_51
+  - first:
+      213: 7260400474095609956
+    second: BG-GrassPatches_52
+  - first:
+      213: 8290914238504062975
+    second: BG-GrassPatches_53
+  - first:
+      213: 6018976907196565129
+    second: BG-GrassPatches_54
+  - first:
+      213: 1282069804975753697
+    second: BG-GrassPatches_55
+  - first:
+      213: 8487029735040709180
+    second: BG-GrassPatches_56
+  - first:
+      213: -8571735358729304748
+    second: BG-GrassPatches_57
+  - first:
+      213: -4549547384964896993
+    second: BG-GrassPatches_58
+  - first:
+      213: -8145477537658813950
+    second: BG-GrassPatches_59
+  - first:
+      213: -7810831461321523927
+    second: BG-GrassPatches_60
+  - first:
+      213: -7523534146987278981
+    second: BG-GrassPatches_61
+  - first:
+      213: -8359868487810539405
+    second: BG-GrassPatches_62
+  - first:
+      213: 7691226969975965814
+    second: BG-GrassPatches_63
+  - first:
+      213: 8941267439780780655
+    second: BG-GrassPatches_64
+  - first:
+      213: 3249617682795198452
+    second: BG-GrassPatches_65
+  - first:
+      213: -2598507958353630868
+    second: BG-GrassPatches_66
+  - first:
+      213: 4959738800625001156
+    second: BG-GrassPatches_67
+  - first:
+      213: 261734874124153022
+    second: BG-GrassPatches_68
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: BG-GrassPatches_0
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 7
+        width: 132
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5629cc62d3f690260800000000000000
+      internalID: 7064299798941962853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BG-GrassPatches_1
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 83
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38e6f8d660ad7eb00800000000000000
+      internalID: 857893975180144259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BG-GrassPatches_2
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 89
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e352bb82ea4039020800000000000000
+      internalID: 2347224976844334398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BG-GrassPatches_3
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 82
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84f2973e7274c0590800000000000000
+      internalID: -7706706625692094648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BG-GrassPatches_4
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 87
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd1fce272c6ec9a00800000000000000
+      internalID: 764739759572316637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BG-GrassPatches_5
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 78
+        width: 17
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c59466e992efddaf0800000000000000
+      internalID: -369860139669894820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BG-GrassPatches_6
+      rect:
+        serializedVersion: 2
+        x: 367
+        y: 81
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53282f432efc5c480800000000000000
+      internalID: -8879462519833198027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BG-GrassPatches_7
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 78
+        width: 23
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86a14f3ad0a102af0800000000000000
+      internalID: -423309719085245848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BG-GrassPatches_8
+      rect:
+        serializedVersion: 2
+        x: 421
+        y: 65
+        width: 24
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19eb177e7643e2650800000000000000
+      internalID: 6209958557059759761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BG-GrassPatches_9
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 81
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: beedb42e21e8a8860800000000000000
+      internalID: 7532989538487754475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BG-GrassPatches_10
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 81
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38b035a00992e77f0800000000000000
+      internalID: -613006800650564733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BG-GrassPatches_11
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 79
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 097b0f7db36b217d0800000000000000
+      internalID: -2949094437832050800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BG-GrassPatches_12
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 63
+        width: 35
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f94eff087c5b8a5a0800000000000000
+      internalID: -6509753392896678753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BG-GrassPatches_13
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 75
+        width: 34
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ed3b2db523e9fe20800000000000000
+      internalID: 3384986346172661218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BG-GrassPatches_14
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 65
+        width: 14
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 996aa7cb8d3a264e0800000000000000
+      internalID: -1989847934073919847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BG-GrassPatches_15
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 40
+        width: 55
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56087cb41448c4c10800000000000000
+      internalID: 2039150147271098469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BG-GrassPatches_16
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 67
+        width: 21
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6dd36417d13a74d00800000000000000
+      internalID: 956912792689327574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BG-GrassPatches_17
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 15
+        width: 120
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0157b0216455df70800000000000000
+      internalID: 9211361388993663243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BG-GrassPatches_18
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 71
+        width: 13
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6630d79d855d53ff0800000000000000
+      internalID: -56904842689576090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BG-GrassPatches_19
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 71
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26393648afe89e4c0800000000000000
+      internalID: -4257714766088006814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BG-GrassPatches_20
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 71
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69c515ac2a5bc5390800000000000000
+      internalID: -7828182341493105514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BG-GrassPatches_21
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 69
+        width: 21
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 378763c2919adf1a0800000000000000
+      internalID: -6774072338914314125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BG-GrassPatches_22
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 45
+        width: 42
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8eaea33a1b13f23e0800000000000000
+      internalID: -2076386264176989464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BG-GrassPatches_23
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 57
+        width: 24
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7737c67f124693340800000000000000
+      internalID: 4844012971261457271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BG-GrassPatches_24
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 64
+        width: 15
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4a45425d0480adf0800000000000000
+      internalID: -170991593090364850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BG-GrassPatches_25
+      rect:
+        serializedVersion: 2
+        x: 431
+        y: 61
+        width: 15
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9cb7285d2865fe7e0800000000000000
+      internalID: -1734072211586516023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BG-GrassPatches_26
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 54
+        width: 22
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47b6224d723078880800000000000000
+      internalID: -8608908693097780364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BG-GrassPatches_27
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 54
+        width: 14
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49502958b90bdde10800000000000000
+      internalID: 2224127972998251924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BG-GrassPatches_28
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 58
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d93be935b61a1c250800000000000000
+      internalID: 5963224863951729565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BG-GrassPatches_29
+      rect:
+        serializedVersion: 2
+        x: 367
+        y: 49
+        width: 24
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2cdc8a0b996a95eb0800000000000000
+      internalID: -4730566754551935550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BG-GrassPatches_30
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 61
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc2c8fa69b78e9920800000000000000
+      internalID: 2998983632308716239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BG-GrassPatches_31
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 54
+        width: 11
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f177cf77553b3240800000000000000
+      internalID: 4772466880051376630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BG-GrassPatches_32
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 47
+        width: 34
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eff04124d7d67b650800000000000000
+      internalID: 6248583392746803198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BG-GrassPatches_33
+      rect:
+        serializedVersion: 2
+        x: 442
+        y: 61
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76fd193199b0cee20800000000000000
+      internalID: 3381090172334628711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BG-GrassPatches_34
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 20
+        width: 28
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b41c0ff4639107dd0800000000000000
+      internalID: -2490462872875777717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BG-GrassPatches_35
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 51
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e7446814ce0f5ca0800000000000000
+      internalID: -6026081541012830235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BG-GrassPatches_36
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 46
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e74b049281a245670800000000000000
+      internalID: 8526486277778879614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BG-GrassPatches_37
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 46
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d39977007dd0e94c0800000000000000
+      internalID: -4278967378878424771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BG-GrassPatches_38
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 48
+        width: 13
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 403cdb1b714939fa0800000000000000
+      internalID: -5795125466008534268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BG-GrassPatches_39
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 50
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a9fcd4b072884da0800000000000000
+      internalID: -5960370686242522714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BG-GrassPatches_40
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 13
+        width: 47
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 034d4c7cae09a68c0800000000000000
+      internalID: -4005229580544322512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BG-GrassPatches_41
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 3
+        width: 31
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22465a5e0fd54ff90800000000000000
+      internalID: -6920803438135253982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BG-GrassPatches_42
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 36
+        width: 28
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc2afbae7eea3e940800000000000000
+      internalID: 5324291495581164235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BG-GrassPatches_43
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 48
+        width: 16
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 234ca4012a28d70f0800000000000000
+      internalID: -1117593499948366798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BG-GrassPatches_44
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 45
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8cb4c3798b9d53360800000000000000
+      internalID: 7148859370355051464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BG-GrassPatches_45
+      rect:
+        serializedVersion: 2
+        x: 428
+        y: 41
+        width: 17
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c282a1c2f22211270800000000000000
+      internalID: 8219388380926584876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BG-GrassPatches_46
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 39
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b7cfa06da4d48d30800000000000000
+      internalID: 4432901774355974066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BG-GrassPatches_47
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 20
+        width: 46
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1e36dfd516d738a0800000000000000
+      internalID: -6325351762180555234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BG-GrassPatches_48
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 36
+        width: 15
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b883feeedfe2738b0800000000000000
+      internalID: -5172613978841466741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BG-GrassPatches_49
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 17
+        width: 25
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1c9f3900deb62890800000000000000
+      internalID: -7483083930111861731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BG-GrassPatches_50
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 40
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8499843f1b348ff10800000000000000
+      internalID: 2303665640969902408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BG-GrassPatches_51
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 26
+        width: 19
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ff315c9807950ca0800000000000000
+      internalID: -6051264461064290311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BG-GrassPatches_52
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 36
+        width: 12
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 468eb8193cf12c460800000000000000
+      internalID: 7260400474095609956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BG-GrassPatches_53
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 5
+        width: 42
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fff4341a29e3f0370800000000000000
+      internalID: 8290914238504062975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BG-GrassPatches_54
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 20
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9860bb07b93b78350800000000000000
+      internalID: 6018976907196565129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BG-GrassPatches_55
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 20
+        width: 12
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e985d6e1b3dac110800000000000000
+      internalID: 1282069804975753697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BG-GrassPatches_56
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 24
+        width: 15
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c32774be39cf7c570800000000000000
+      internalID: 8487029735040709180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BG-GrassPatches_57
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 12
+        width: 21
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 455c8423b141b0980800000000000000
+      internalID: -8571735358729304748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BG-GrassPatches_58
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 25
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f172c5602c2ccd0c0800000000000000
+      internalID: -4549547384964896993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BG-GrassPatches_59
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 10
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2024ce9065375fe80800000000000000
+      internalID: -8145477537658813950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BG-GrassPatches_60
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 14
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92d3c736b2a5a9390800000000000000
+      internalID: -7810831461321523927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BG-GrassPatches_61
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 7
+        width: 28
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7d3d410e89079790800000000000000
+      internalID: -7523534146987278981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BG-GrassPatches_62
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 17
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 370221f17e7cbfb80800000000000000
+      internalID: -8359868487810539405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BG-GrassPatches_63
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 14
+        width: 16
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6784258ed2abcba60800000000000000
+      internalID: 7691226969975965814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BG-GrassPatches_64
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 0
+        width: 20
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6a56e51d53c51c70800000000000000
+      internalID: 8941267439780780655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BG-GrassPatches_65
+      rect:
+        serializedVersion: 2
+        x: 446
+        y: 11
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f7f5d6b016f81d20800000000000000
+      internalID: 3249617682795198452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BG-GrassPatches_66
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 3
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c696e4487ce30fbd0800000000000000
+      internalID: -2598507958353630868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BG-GrassPatches_67
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 6
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c2a9fd492884d440800000000000000
+      internalID: 4959738800625001156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BG-GrassPatches_68
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 8
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb070853b7ed1a300800000000000000
+      internalID: 261734874124153022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      BG-GrassPatches_0: 7064299798941962853
+      BG-GrassPatches_1: 857893975180144259
+      BG-GrassPatches_10: -613006800650564733
+      BG-GrassPatches_11: -2949094437832050800
+      BG-GrassPatches_12: -6509753392896678753
+      BG-GrassPatches_13: 3384986346172661218
+      BG-GrassPatches_14: -1989847934073919847
+      BG-GrassPatches_15: 2039150147271098469
+      BG-GrassPatches_16: 956912792689327574
+      BG-GrassPatches_17: 9211361388993663243
+      BG-GrassPatches_18: -56904842689576090
+      BG-GrassPatches_19: -4257714766088006814
+      BG-GrassPatches_2: 2347224976844334398
+      BG-GrassPatches_20: -7828182341493105514
+      BG-GrassPatches_21: -6774072338914314125
+      BG-GrassPatches_22: -2076386264176989464
+      BG-GrassPatches_23: 4844012971261457271
+      BG-GrassPatches_24: -170991593090364850
+      BG-GrassPatches_25: -1734072211586516023
+      BG-GrassPatches_26: -8608908693097780364
+      BG-GrassPatches_27: 2224127972998251924
+      BG-GrassPatches_28: 5963224863951729565
+      BG-GrassPatches_29: -4730566754551935550
+      BG-GrassPatches_3: -7706706625692094648
+      BG-GrassPatches_30: 2998983632308716239
+      BG-GrassPatches_31: 4772466880051376630
+      BG-GrassPatches_32: 6248583392746803198
+      BG-GrassPatches_33: 3381090172334628711
+      BG-GrassPatches_34: -2490462872875777717
+      BG-GrassPatches_35: -6026081541012830235
+      BG-GrassPatches_36: 8526486277778879614
+      BG-GrassPatches_37: -4278967378878424771
+      BG-GrassPatches_38: -5795125466008534268
+      BG-GrassPatches_39: -5960370686242522714
+      BG-GrassPatches_4: 764739759572316637
+      BG-GrassPatches_40: -4005229580544322512
+      BG-GrassPatches_41: -6920803438135253982
+      BG-GrassPatches_42: 5324291495581164235
+      BG-GrassPatches_43: -1117593499948366798
+      BG-GrassPatches_44: 7148859370355051464
+      BG-GrassPatches_45: 8219388380926584876
+      BG-GrassPatches_46: 4432901774355974066
+      BG-GrassPatches_47: -6325351762180555234
+      BG-GrassPatches_48: -5172613978841466741
+      BG-GrassPatches_49: -7483083930111861731
+      BG-GrassPatches_5: -369860139669894820
+      BG-GrassPatches_50: 2303665640969902408
+      BG-GrassPatches_51: -6051264461064290311
+      BG-GrassPatches_52: 7260400474095609956
+      BG-GrassPatches_53: 8290914238504062975
+      BG-GrassPatches_54: 6018976907196565129
+      BG-GrassPatches_55: 1282069804975753697
+      BG-GrassPatches_56: 8487029735040709180
+      BG-GrassPatches_57: -8571735358729304748
+      BG-GrassPatches_58: -4549547384964896993
+      BG-GrassPatches_59: -8145477537658813950
+      BG-GrassPatches_6: -8879462519833198027
+      BG-GrassPatches_60: -7810831461321523927
+      BG-GrassPatches_61: -7523534146987278981
+      BG-GrassPatches_62: -8359868487810539405
+      BG-GrassPatches_63: 7691226969975965814
+      BG-GrassPatches_64: 8941267439780780655
+      BG-GrassPatches_65: 3249617682795198452
+      BG-GrassPatches_66: -2598507958353630868
+      BG-GrassPatches_67: 4959738800625001156
+      BG-GrassPatches_68: 261734874124153022
+      BG-GrassPatches_7: -423309719085245848
+      BG-GrassPatches_8: 6209958557059759761
+      BG-GrassPatches_9: 7532989538487754475
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
