@@ -15,6 +15,7 @@ namespace _01.Code.Players
         private PlayerMovement _movement;
         private EntityHealth _health;
         
+        [HideInInspector] public Vector2 MouseWorldPosition {get; private set;}
         protected override void Awake()
         {
             base.Awake();
@@ -48,12 +49,12 @@ namespace _01.Code.Players
         {
             const string idle = "IDLE";
             _stateMachine.ChangeState(idle);
-            
         }
         
         private void Update()
         {
             _stateMachine.UpdateStateMachine();
+            MouseWorldPosition = PlayerInput.GetWorldPosition();
         }
         
         public void ChangeState(string newStateName, bool force = false) 
