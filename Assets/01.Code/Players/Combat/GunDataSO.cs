@@ -5,7 +5,7 @@ namespace _01.Code.Players.Combat
     [CreateAssetMenu(fileName = "GunData", menuName = "SO/Gun", order = 0)]
     public class GunDataSO : ScriptableObject
     {
-        [field:SerializeField] public Gun Prefab { get; private set; }
+        [field:SerializeField] public Gun.Gun Prefab { get; private set; }
         [field:SerializeField] public float FireRate { get; private set; } = 0.2f;
         [field:SerializeField] public float BulletSpeed { get; private set; } = 20f;
         [field:SerializeField] public int Damage { get; private set; } = 10;

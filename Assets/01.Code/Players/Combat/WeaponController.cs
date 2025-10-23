@@ -9,8 +9,8 @@ namespace _01.Code.Players.Combat
         [SerializeField] private Transform gunHolder;
         [SerializeField] private GunDataSO[] gunsData;
         
-        private List<Gun> _guns = new List<Gun>();
-        public Gun CurrentGun { get; private set; }
+        private List<Gun.Gun> _guns = new List<Gun.Gun>();
+        public Gun.Gun CurrentGun { get; private set; }
         private float _time;
         private Entities.Entity _entity;
         public void Initialize(Entities.Entity entity)
@@ -46,7 +46,7 @@ namespace _01.Code.Players.Combat
 
             float angle = Mathf.Atan2(direction.y, direction.x) * Mathf.Rad2Deg;
 
-            transform.rotation = Quaternion.Euler(0, 0, angle);
+            transform.rotation = Quaternion.Euler(0, angle, 0);
         }
         private void EquipGun(int i)
         {
@@ -60,7 +60,8 @@ namespace _01.Code.Players.Combat
 		
         public void AddGun(GunDataSO gunData)
         {
-            Gun gun = Instantiate(gunData.Prefab, gunHolder);
+            Gun.Gun gun = Instantiate(gunData.Prefab, gunHolder);
+            gun.Initialize(gunData.FireRate);
             _guns.Add(gun);
             gun.gameObject.SetActive(false);
         }
@@ -70,7 +71,7 @@ namespace _01.Code.Players.Combat
             if(_time > gunsData[_guns.IndexOf(CurrentGun)].FireRate)
             {
                 GunDataSO data = gunsData[_guns.IndexOf(CurrentGun)];
-                CurrentGun.Shoot(data.Damage, data.FireRate, data.BulletLifeTime);
+                CurrentGun.Shoot(data.Damage, data.BulletSpeed, data.BulletLifeTime);
                 _time = 0;
             }
         }
